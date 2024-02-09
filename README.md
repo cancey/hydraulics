@@ -12,6 +12,8 @@ LeVeque, R.J., *Finite Volume Methods for Hyperbolic Problems*, Cambridge Univer
 You can also download my tutorial (work in progress):
 [en.ancey.ch/cours/doctorat/tutorial_clawpack.pdf](http://en.ancey.ch/cours/doctorat/tutorial_clawpack.pdf)
 
+The notebooks are used as a support for my course in hydraulics at EPFL (civil engineering, master students). The lecture notes (in French) are available and contain further information on the equations and their solutions: [fr.ancey.ch/cours/masterGC/cours-hydraulique.pdf](http://fr.ancey.ch/cours/masterGC/cours-hydraulique.pdf).
+
 # Contents
 ## Physical processes
 * linear advection equation
