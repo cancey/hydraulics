@@ -23,6 +23,7 @@ The notebooks are used as a support for my course in hydraulics at EPFL (civil e
 
 ## Floods
 * kinematic wave approximation
+* Saint-Venant equations and flow in a flume
   
 ## Dambreak
 * Huppert's equation
