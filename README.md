@@ -14,6 +14,15 @@ You can also download my tutorial (work in progress):
 
 The notebooks are used as a support for my course in hydraulics at EPFL (civil engineering, master students). The lecture notes (in French) are available and contain further information on the equations and their solutions: [fr.ancey.ch/cours/masterGC/cours-hydraulique.pdf](http://fr.ancey.ch/cours/masterGC/cours-hydraulique.pdf).
 
+The folders contain jupyter notebooks which either (i) executes the Clawpack code directly and plots the results or (ii) plots the results. In the latter case, the code must be run independently. First generate bed topography:
+
+    make topo
+
+Then run the code:
+
+    make .output
+Finally, all the results can be visualized using reading.ipynb (which can also be used to export videos and snapshots).
+
 # Contents
 ## Physical processes
 * linear advection equation
