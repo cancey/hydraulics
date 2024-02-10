@@ -21,3 +21,15 @@ The notebooks are used as a support for my course in hydraulics at EPFL (civil e
 * Burgers' equation
 * viscous Burgers equation
 
+## Floods
+* kinematic wave approximation
+  
+## Dambreak
+* Huppert's equation
+* Ritter's solution
+* dambreak on a wet bed
+* dambreak on a dry sloping bed
+  
+## Waves
+* tsunami: comparison between the Saint-Venant equations and Serre--Green--Naghdi equations
+
