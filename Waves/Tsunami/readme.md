@@ -4,9 +4,9 @@ Simulations of a tsunami based on the geoclaw solver and the code developed by B
 
 The results can be plotted using the notebook reading.ipynb. To run the code:
 
-make topo
+    make topo
 
-make .output
+    make .output
 
 In the setrun.py configuration file, L92, it is possible to select the Saint-Venant equations (rundata.bouss_data.bouss_equations = 0) or the SGN equations (rundata.bouss_data.bouss_equations = 2).
 
